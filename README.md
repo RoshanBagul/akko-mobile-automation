@@ -44,15 +44,15 @@ mobile-automation/
 - Appium v3
 
 Verify setup:
-```bash
-node -v
-adb devices
-appium -v
+- node -v
+- adb devices
+- appium -v
 ____
 ▶️ Run Tests
 
 1. Start Android Emulator from Android Studio → Device Manager
-2. Run: npx wdio run wdio.conf.js
+2. Run: appium
+3. Run: npx wdio run wdio.conf.js (open in new Terminal)
 ______
 🧪 Test Coverage
 
@@ -63,3 +63,5 @@ ______
 - Successful login flow execution
 
 ____
+## Allure report output 
+<img width="1772" height="838" alt="image" src="https://github.com/user-attachments/assets/62d1ea10-4ebb-43bc-a358-379a8eb0f4b5" />
