@@ -1,1 +1,15 @@
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# Mobile binaries
 *.apk
+*.aab
+
+# Node
+node_modules/
+
+# Logs
+*.log
+
