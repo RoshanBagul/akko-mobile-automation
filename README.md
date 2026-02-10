@@ -66,3 +66,30 @@ ______
 ____
 ## Allure report output 
 <img width="1772" height="838" alt="image" src="https://github.com/user-attachments/assets/62d1ea10-4ebb-43bc-a358-379a8eb0f4b5" />
+
+____
+
+##Out put Log
+```
+Test Run Command:
+npx wdio run wdio.conf.js
+
+Platform: Android
+Framework: WebdriverIO + Appium
+App: app.apk
+
+Spec Results:
+--------------------------------------------------
+My Login application
+✓ should login with valid credentials
+
+1 passing (15.9s)
+Spec Files: 1 passed, 1 total (100%)
+Session ID: ff50592b-8c6f-4487-bd41-7fec3c9e172b
+--------------------------------------------------
+```
+____
+Notes:
+- Appium service was started via WDIO Appium Service
+- Android login flow automated using XPath locators
+- Test executed successfully on real/emulator Android device
