@@ -72,7 +72,7 @@ ____
 
 ____
 
-##Out put Log
+## Output Log
 ```
 Test Run Command:
 npx wdio run wdio.conf.js
@@ -92,7 +92,7 @@ Session ID: ff50592b-8c6f-4487-bd41-7fec3c9e172b
 --------------------------------------------------
 ```
 ____
-Notes:
+## Notes:
 - Appium service was started via WDIO Appium Service
 - Android login flow automated using XPath locators
 - Test executed successfully on real/emulator Android device
