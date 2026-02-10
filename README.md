@@ -62,7 +62,10 @@ ______
 - Password input
 - Login button interaction
 - Successful login flow execution
+_____
+## Video
 
+https://drive.google.com/file/d/1AThVU3a6aGgKQ9L_YN4BfdIQy54_bHAF/view?usp=sharing
 ____
 ## Allure report output 
 <img width="1772" height="838" alt="image" src="https://github.com/user-attachments/assets/62d1ea10-4ebb-43bc-a358-379a8eb0f4b5" />
