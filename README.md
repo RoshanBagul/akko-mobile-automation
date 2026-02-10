@@ -17,6 +17,7 @@ Automate the **Login workflow** of a mobile application using **Appium** on an *
 ---
 
 ## 📂 Project Structure
+```
 mobile-automation/
 │
 ├── apps/
@@ -32,7 +33,7 @@ mobile-automation/
 ├── wdio.conf.js
 ├── package.json
 └── README.md
-
+```
 
 ---
 
