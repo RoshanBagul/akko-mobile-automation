@@ -34,7 +34,7 @@ mobile-automation/
 ├── package.json
 └── README.md
 ```
-
+download and add apk in apps folder (APK file path https://drive.google.com/file/d/1dAXyTS-qEVSVBjGZiLKxeixp_FnFwx9z/view?usp=sharing)
 ---
 
 ## ⚙️ Prerequisites
